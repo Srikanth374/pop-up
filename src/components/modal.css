@@ -1,13 +1,13 @@
 .ModalPopUp {
     width: 100vw;
     height: 100vh;
-    background-color: rgba(200, 200, 200);
+    background-color: #c8c8c8;
     position: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  
+  /* added color code */
   .modalContainer {
     width: 500px;
     height: 500px;
